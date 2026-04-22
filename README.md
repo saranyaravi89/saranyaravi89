@@ -1,98 +1,99 @@
-# 👋 Hi, I'm a Production Engineering & SRE Professional
+# 👋 Hi, I'm a Production Engineering & Site Reliability Engineer
 
-Experienced **Production Support / Application Support Lead (13+ years)** in high-criticality banking systems, with hands-on expertise in **cloud-native Site Reliability Engineering (SRE)** across AWS, Kubernetes, and full-stack observability.
-
----
-
-## 🚀 What I Do
-
-I design, build, and operate **high-availability, production-grade systems** with strong focus on:
-
-- Reliability engineering (SLOs, error budgets, incident response)
-- Observability (metrics, logs, distributed tracing)
-- Cloud-native architecture (AWS + Kubernetes)
-- Production support automation and resilience engineering
+Production Support / Application Support Lead with **13+ years of experience** managing **mission-critical banking systems**, now operating in **cloud-native SRE environments** across AWS, Kubernetes, and modern observability stacks.
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 What I Deliver
+
+I build and operate **reliable, scalable, and observable systems** with a strong production-first mindset:
+
+- Designing **high-availability architectures**
+- Driving **incident response & root cause analysis**
+- Implementing **observability across metrics, logs, and tracing**
+- Automating **resilience and recovery workflows**
+- Enabling **cloud-native deployments on AWS**
+
+---
+
+## 🧠 Core Capabilities
 
 ### 🟢 Production Engineering
-- Incident management & root cause analysis (RCA)
-- Monitoring, alerting & operational excellence
-- High-availability system support (banking/trading platforms)
-- Performance troubleshooting & stability engineering
+- Incident management, RCA, and post-incident reviews  
+- Monitoring strategy, alert tuning, and operational excellence  
+- Performance analysis and system stability improvements  
+- Supporting high-volume **banking & trading systems**
 
 ---
 
 ### 🔵 Cloud & Platform Engineering
-- AWS (EKS, VPC, IAM, RDS, EC2)
-- Kubernetes (deployment, scaling, HPA, services)
-- Docker (containerization & runtime environments)
-- Terraform (Infrastructure as Code)
+- AWS: EKS, VPC, IAM, RDS, EC2  
+- Kubernetes: deployments, scaling (HPA), services, ingress  
+- Docker: containerization and runtime environments  
+- Terraform: Infrastructure as Code (IaC)
 
 ---
 
-### 🟣 Observability & SRE
-- Prometheus (metrics & alerting)
-- Grafana (dashboards & visualization)
-- Loki (log aggregation)
-- OpenTelemetry + Jaeger (distributed tracing)
+### 🟣 Observability & Reliability
+- Prometheus (metrics collection & alerting)  
+- Grafana (dashboards and visualization)  
+- Loki (centralized logging)  
+- OpenTelemetry + Jaeger (distributed tracing)  
 
 ---
 
 ### 🟡 Development & Automation
-- Python (FastAPI, automation scripts)
-- CI/CD (GitHub Actions)
-- Linux systems & shell scripting
+- Python (FastAPI, automation tools)  
+- CI/CD pipelines (GitHub Actions)  
+- Linux systems and shell scripting  
 
 ---
 
-## 🏗️ Featured Project
+## 🏗️ Featured Work
 
 ### 🔥 Cloud-Native Trading Reliability Platform (CNRP)
 
-A production-style system simulating **real-world financial infrastructure** with full SRE capabilities.
+A production-grade platform simulating **real-world financial systems** with full SRE capabilities.
 
-#### Key Highlights:
-- Built a **trading system API (FastAPI)** with persistent storage (PostgreSQL)
-- Designed **AWS infrastructure using Terraform** (VPC, EKS, IAM, RDS)
-- Deployed application on **Kubernetes (EKS) with auto-scaling**
-- Implemented **full observability stack**:
+**Highlights:**
+- Developed a **trading API (FastAPI)** with persistent storage (PostgreSQL)
+- Built AWS infrastructure using **Terraform (VPC, EKS, IAM, RDS)**
+- Deployed services on **Kubernetes (EKS) with auto-scaling**
+- Implemented full observability:
   - Metrics → Prometheus  
   - Logs → Loki  
-  - Tracing → OpenTelemetry + Jaeger  
-- Developed **SRE capabilities**:
-  - SLO definition & monitoring  
+  - Traces → OpenTelemetry + Jaeger  
+- Designed reliability features:
+  - SLO definition and monitoring  
   - Error budget tracking  
   - Incident simulation & auto-remediation  
-- Implemented **chaos engineering**:
+- Introduced **chaos engineering** for failure testing:
   - Pod failures  
   - Latency injection  
-  - Database failure simulation  
+  - Database failure scenarios  
 
 ---
 
-## 📊 What I Bring to SRE Roles
+## 📊 What I Bring
 
-- Strong **production mindset from day one**
-- Ability to **debug complex distributed systems**
-- Hands-on experience with **end-to-end system reliability**
-- Deep understanding of **banking system behavior under failure**
-- Practical knowledge of **observability-driven operations**
+- Strong **production mindset from day one**  
+- Ability to **analyze and debug distributed systems under failure**  
+- Hands-on experience with **end-to-end system reliability**  
+- Deep domain knowledge in **banking systems**  
+- Practical application of **observability-driven engineering**  
 
 ---
 
 ## 📫 Let's Connect
 
-- Open to opportunities in SRE / Platform Engineering
-- Interested in roles involving:
+- Open to **SRE / Platform Engineering roles**
+- Interested in:
   - Cloud-native systems  
-  - Production reliability  
-  - Financial systems engineering  
+  - Production reliability engineering  
+  - Financial systems infrastructure  
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Engineering Philosophy
 
-> "Reliability is not a feature — it is engineered through observability, automation, and disciplined operations."
+> Reliability is engineered through observability, automation, and disciplined operations — not added as an afterthought.
