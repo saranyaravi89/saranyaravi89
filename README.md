@@ -1,49 +1,98 @@
-# Hi, I'm Saranya 👋
+# 👋 Hi, I'm a Production Engineering & SRE Professional
 
-🚀 Transitioning from Application Support to Site Reliability Engineering (SRE)  
-☁️ AWS Certified Developer & Solutions Architect  
-🛠 Currently learning Docker, Kubernetes, and Cloud Automation  
+Experienced **Production Support / Application Support Lead (13+ years)** in high-criticality banking systems, with hands-on expertise in **cloud-native Site Reliability Engineering (SRE)** across AWS, Kubernetes, and full-stack observability.
 
 ---
 
-## 💡 About Me
+## 🚀 What I Do
 
-I have 13+ years of experience in production/application support within the investment banking domain, specializing in:
+I design, build, and operate **high-availability, production-grade systems** with strong focus on:
 
-- Incident management and triage  
-- Root cause analysis (RCA)  
-- Production stability and monitoring  
-
-I am now building hands-on expertise in cloud and SRE practices to design and operate reliable, scalable systems.
-
----
-
-## 🔧 Skills (Growing)
-
-- Cloud: AWS (Certified AWS Devoloper Associate and AWS Solutions Architect Associate) 
-- Containers: Learning Docker  
-- Orchestration: Learning Kubernetes  
-- IaC: Terraform (Certified)  
-- Scripting: Python (basic)  
+- Reliability engineering (SLOs, error budgets, incident response)
+- Observability (metrics, logs, distributed tracing)
+- Cloud-native architecture (AWS + Kubernetes)
+- Production support automation and resilience engineering
 
 ---
 
-## 📂 Current Focus
+## 🧠 Core Expertise
 
-- Learning containerization using Docker  
-- Practicing debugging and system failures  
-- Building hands-on SRE projects  
-
----
-
-## 📌 Upcoming Projects
-
-- Docker SRE Lab  
-- Kubernetes Failure Scenarios  
-- Terraform AWS Infrastructure  
+### 🟢 Production Engineering
+- Incident management & root cause analysis (RCA)
+- Monitoring, alerting & operational excellence
+- High-availability system support (banking/trading platforms)
+- Performance troubleshooting & stability engineering
 
 ---
 
-## 📫 Connect with me
+### 🔵 Cloud & Platform Engineering
+- AWS (EKS, VPC, IAM, RDS, EC2)
+- Kubernetes (deployment, scaling, HPA, services)
+- Docker (containerization & runtime environments)
+- Terraform (Infrastructure as Code)
 
-- LinkedIn: www.linkedin.com/in/saranya-sakthivel-6b867769 
+---
+
+### 🟣 Observability & SRE
+- Prometheus (metrics & alerting)
+- Grafana (dashboards & visualization)
+- Loki (log aggregation)
+- OpenTelemetry + Jaeger (distributed tracing)
+
+---
+
+### 🟡 Development & Automation
+- Python (FastAPI, automation scripts)
+- CI/CD (GitHub Actions)
+- Linux systems & shell scripting
+
+---
+
+## 🏗️ Featured Project
+
+### 🔥 Cloud-Native Trading Reliability Platform (CNRP)
+
+A production-style system simulating **real-world financial infrastructure** with full SRE capabilities.
+
+#### Key Highlights:
+- Built a **trading system API (FastAPI)** with persistent storage (PostgreSQL)
+- Designed **AWS infrastructure using Terraform** (VPC, EKS, IAM, RDS)
+- Deployed application on **Kubernetes (EKS) with auto-scaling**
+- Implemented **full observability stack**:
+  - Metrics → Prometheus  
+  - Logs → Loki  
+  - Tracing → OpenTelemetry + Jaeger  
+- Developed **SRE capabilities**:
+  - SLO definition & monitoring  
+  - Error budget tracking  
+  - Incident simulation & auto-remediation  
+- Implemented **chaos engineering**:
+  - Pod failures  
+  - Latency injection  
+  - Database failure simulation  
+
+---
+
+## 📊 What I Bring to SRE Roles
+
+- Strong **production mindset from day one**
+- Ability to **debug complex distributed systems**
+- Hands-on experience with **end-to-end system reliability**
+- Deep understanding of **banking system behavior under failure**
+- Practical knowledge of **observability-driven operations**
+
+---
+
+## 📫 Let's Connect
+
+- Open to opportunities in SRE / Platform Engineering
+- Interested in roles involving:
+  - Cloud-native systems  
+  - Production reliability  
+  - Financial systems engineering  
+
+---
+
+## ⚡ Philosophy
+
+> "Reliability is not a feature — it is engineered through observability, automation, and disciplined operations."
